@@ -17,23 +17,23 @@ p {
     font-size: 16px;
 }
 
-.header {/* Header Section Style CSS */
+.header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {/* h1 header Style CSS */
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {/* h1 seo Style CSS */
+.header h1 .seo {
     color: #d9dcd6;
 }
 
-.header_section1 {/* header first section Style CSS */
+.header .header2 {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -41,11 +41,11 @@ p {
     font-size: 20px;
 }
 
-.header ul {/* header ul Style CSS */
+.header2 ul {
     list-style-type: none;
 }
 
-.header ul li { /* header li Style CSS */
+.header2 ul li {
     display: inline-block;
     margin-left: 25px;
 }
